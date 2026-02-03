@@ -12,7 +12,6 @@
   "dependencies": {
     "@radix-ui/react-slot": "^1.0.2",
     "@tensorflow/tfjs": "^4.20.0",
-    "aceternity-ui": "^1.0.0",
     "clsx": "^2.1.1",
     "dompurify": "^3.1.5",
     "framer-motion": "^11.2.12",
@@ -22,6 +21,9 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^2.5.2"
+  },
+  "optionalDependencies": {
+    "aceternity-ui": "^1.0.0"
   },
   "devDependencies": {
     "@types/dompurify": "^3.0.5",
