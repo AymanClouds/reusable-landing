@@ -1,0 +1,26 @@
+{
+  "name": "elite-landing-kit",
+  "homepage": "https://elite-landing-kit.local",
+  "components": [
+    {
+      "name": "elite-hero",
+      "type": "registry:ui",
+      "files": ["components/ui/elite-hero.tsx"]
+    },
+    {
+      "name": "elite-pricing",
+      "type": "registry:ui",
+      "files": ["components/ui/elite-pricing.tsx"]
+    },
+    {
+      "name": "elite-testimonials",
+      "type": "registry:ui",
+      "files": ["components/ui/elite-testimonials.tsx"]
+    },
+    {
+      "name": "elite-3d-card",
+      "type": "registry:ui",
+      "files": ["components/ui/elite-3d-card.tsx"]
+    }
+  ]
+}
